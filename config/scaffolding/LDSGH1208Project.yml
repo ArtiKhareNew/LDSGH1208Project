@@ -11,4 +11,4 @@ packages:
   gitServerName: srcCtrl_shared_AzRepos_Arti
   gitUrl: https://dev.azure.com/ArtiKhare/SubstractPublicSvcPackage/_git
   gitUsername: ArtiKhare
-  gitBranch: main
+  gitBranch: secondbranch
